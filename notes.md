@@ -20,8 +20,8 @@ This is an task from the CodeWar.
 ### Guardinas
 
 - Input is two arraies. 🔴💿🟢💿
-- Output is one array.
+- Output is one array. 🔴💿
 
 ### Process
 
-- To remove the same characters from a array.
+- To remove the same characters from a array. 🔴💿
