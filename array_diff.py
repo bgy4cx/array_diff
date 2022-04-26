@@ -1,0 +1,2 @@
+def IsItArray():
+    return False
