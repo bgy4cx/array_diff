@@ -19,7 +19,7 @@ This is an task from the CodeWar.
 
 ### Guardinas
 
-- Input is two arraies.
+- Input is two arraies. 🔴
 - Output is one array.
 
 ### Process
