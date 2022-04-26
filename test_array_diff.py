@@ -12,3 +12,9 @@ def test_array_diff_1():
 def test_array_diff_2():
     assert array_diff([2, 3], [1, 2, 3, 4]) == []
 
+def test_array_diff_3():
+    assert array_diff([2, 3], 1234) == []
+
+def test_array_diff_4():
+    assert array_diff(1234, [2, 3]) == []
+
