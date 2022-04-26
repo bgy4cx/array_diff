@@ -1,2 +1,2 @@
-def IsItArray():
-    return False
+def IsItArray(a):
+    return isinstance(a, list)
